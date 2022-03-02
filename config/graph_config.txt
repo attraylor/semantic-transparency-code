@@ -1,0 +1,4 @@
+acl-proplogic-ksyn5-small-lstm	Small LSTM
+acl-proplogic-ksyn5-medium-lstm	Medium LSTM
+acl-proplogic-ksyn5-small-transformer	Small Transformer
+acl-proplogic-ksyn5-medium-transformer	Medium Transformer
